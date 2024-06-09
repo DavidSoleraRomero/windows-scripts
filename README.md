@@ -25,4 +25,4 @@ Este repositorio fue creado por David Solera Romero, estudiante de Desarrollo de
 
 ## Licencia
 
-Este repositorio está bajo la Licencia [MIT](LICENSE).
+Este repositorio está bajo la Licencia **MIT**.
