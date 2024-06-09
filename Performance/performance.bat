@@ -3,23 +3,23 @@
 echo Limpiando carpetas...
 
 :: Limpia la carpeta de archivos temporales del usuario
-rd /s /q %temp%\*.*
-rmdir /s /q %temp%\*
+del /s /q %temp%\*.*
+rd /s /q %temp%\
 timeout /t 5 /nobreak
 
 :: Limpia la carpeta de archivos temporales de Windows
-rd /s /q C:\Windows\Temp\*.*
-rmdir /s /q C:\Windows\Temp\*
+del /s /q C:\Windows\Temp\*.*
+rd /s /q C:\Windows\Temp\
 timeout /t 5 /nobreak
 
 :: Limpia la Papelera de reciclaje
-rd /s /q C:\$Recycle.Bin\*.*
-rmdir /s /q C:\$Recycle.Bin\*
+del /s /q C:\$Recycle.Bin\*.*
+rd /s /q C:\$Recycle.Bin\
 timeout /t 5 /nobreak
 
 :: Limpia la carpeta prefetch
-rd /s /q C:\Windows\Prefetch
-rmdir /s /q  C:\Windows\Prefetch\*
+del /s /q C:\Windows\Prefetch\*.*
+rd /s /q C:\Windows\Prefetch\
 timeout /t 5 /nobreak
 
 echo Carpetas limpiadas.
