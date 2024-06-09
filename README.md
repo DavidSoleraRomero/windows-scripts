@@ -21,7 +21,7 @@ Ten en cuenta que el uso de estos scripts es bajo tu propio riesgo. Asegúrate d
 
 ## Autor
 
-Este repositorio fue creado por David Solera Romero, estudiante de Desarrollo de Aplicaciones Multiplataforma (DAM).
+Repositorio creado por David Solera Romero, estudiante de Desarrollo de Aplicaciones Multiplataforma.
 
 ## Licencia
 
