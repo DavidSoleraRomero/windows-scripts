@@ -7,27 +7,25 @@ Información de la carpeta Performance (Script diseñado para Windows 10):
 
 Instrucciones de uso
 
+Instrucción de una sola vez
+Abrir cmd, escribir cleanmgr /sageset:1 y seleccionar las opciones deseadas (este paso solo se realiza 1 vez por dispositivo).
+Después le daremos click en "Aceptar" y ya tendremos guardada la configuración
+
 1. Realizar click derecho sobre performance.bat
 2. Hacer click en "Ejecutar como administrador" en el menú contextual
-3. Dejar que el script se ejecute hasta cleanmgr (tardará unos minutos)
-4. Se abrirá "Limpiar espacio en disco", y tú deberás elegir las opciones que quieres eliminar y clickar en "Limpiar archivos del sistema" y luego en "Aceptar"
-5. Esperar a que finalice la ejecución
+3. Esperar a que finalice la ejecución
 
 Aclaraciones
 
 Este script realiza los siguientes pasos:
 
 1. Limpiado de las carpetas:
-
   - %temp%
   - temp
   - prefetch
-  - Papelera de reciclaje
-
 2. Desfragmentación de disco
-
-3. Limpieza de disco
-
+3. Limpieza general de disco
 4. Actualización del sistema operativo 
+5. Búsqueda de errores en el sistema
 
 Autor: David Solera Romero
