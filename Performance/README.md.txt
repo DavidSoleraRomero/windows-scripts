@@ -25,7 +25,6 @@ Este script realiza los siguientes pasos:
   - prefetch
 2. Desfragmentación de disco
 3. Limpieza general de disco
-4. Actualización del sistema operativo 
-5. Búsqueda de errores en el sistema
+4. Búsqueda de errores en el sistema
 
 Autor: David Solera Romero
